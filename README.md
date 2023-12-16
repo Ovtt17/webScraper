@@ -1,2 +1,2 @@
-[!IMPORTANT]
-Web Scraper application using Java Spring Boot
+> [!IMPORTANT]
+> Web Scraper application using Java Spring Boot
