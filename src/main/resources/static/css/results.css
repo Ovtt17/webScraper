@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#main-container {
+    margin: auto;
+}
+.logo {
+    width: 110px;
+    position: absolute;
+    left: 31px;
+    top: 30px;
+}
+
+.btn-search {
+    padding: 7px 15px;
+}
+
+#input-search {
+    margin: 20px 0px;
+    margin-left: 154px;
+    height: 33px;
+    border-radius: 25px;
+    border-color: #CCC;
+    padding-left: 15px;
+    width: 500px;
+}
+
+.total-results {
+    margin-left: 160px;
+    font-size: 12px;
+}
+.result {
+    max-width: 600px;
+    margin-left: 160px;
+}
+
+.result h3 {
+    color: #0086f8;
+}
